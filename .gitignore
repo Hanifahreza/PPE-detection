@@ -1,0 +1,10 @@
+# Ignore virtual environment directory
+venv/
+__pycache__/
+
+# Ignore videos
+*.mp4
+*.mov
+
+# Ignore large model file
+*.pth
